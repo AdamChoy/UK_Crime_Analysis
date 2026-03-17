@@ -10,13 +10,13 @@ The analysis will draw on publicly available street-level crime data from data.p
 
 How to recreate the analysis:
 
-  1. Download UK crime dataset from GitHub
+  1. Download UK crime dataset from Sharepoint
 
-2. Download house price data and LSOA population data from GitHub
+2. Download house price data and LSOA population data from Sharepoint
 
-  2. Open the Pre-Processing notebook and run all cells
+  3. Open the Pre-Processing notebook and run all cells
 
-3. Open the EDA notebook and run all cells
+4. Open the EDA notebook and run all cells
 
 Project Files:
 
